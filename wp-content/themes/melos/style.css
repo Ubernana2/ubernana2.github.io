@@ -1690,7 +1690,7 @@ li.pag-next {
 	height: 0;
 	margin: 0;
 	background: #333;
-	background: url('/wp-content/themes/melos/images/slideshow/thinkupslider_bg_333_555.png') repeat;
+	background: url('https://ubernana2.github.io/wp-content/themes/melos/images/slideshow/thinkupslider_bg_333_555.png') repeat;
 }
 #slider .rslides {
 	margin: 0;
@@ -3812,7 +3812,7 @@ ul.pricing-table:after,
 	color: inherit;
 }
 #sidebar .thinkup_widget_twitterfeed .tweet-content {
-	background: url('/wp-content/themes/melos/images/widgets/twitter-bird-light-bgs.png') 2px 5px no-repeat;
+	background: url('https://ubernana2.github.io/wp-content/themes/melos/images/widgets/twitter-bird-light-bgs.png') 2px 5px no-repeat;
 	background-size: 40px;
 }
 
@@ -3821,7 +3821,7 @@ ul.pricing-table:after,
 	padding: 0 0 0 35px;
 }
 #footer .thinkup_widget_twitterfeed .tweet-content {
-	background: url('/wp-content/themes/melos/images/widgets/twitter-bird-dark-bgs.png') -8px -5px no-repeat;
+	background: url('https://ubernana2.github.io/wp-content/themes/melos/images/widgets/twitter-bird-dark-bgs.png') -8px -5px no-repeat;
 	background-size: 40px;
 }
 #footer .thinkup_widget_twitterfeed small {
@@ -3838,7 +3838,7 @@ ul.pricing-table:after,
 	padding: 0 55px 0 0;
 }
 #sub-footer .thinkup_widget_twitterfeed .tweet-content {
-	background: url('/wp-content/themes/melos/images/widgets/twitter-bird-dark-bgs.png') right -5px no-repeat;
+	background: url('https://ubernana2.github.io/wp-content/themes/melos/images/widgets/twitter-bird-dark-bgs.png') right -5px no-repeat;
 	background-size: 40px
 }
 #sub-footer .thinkup_widget_twitterfeed ul {
